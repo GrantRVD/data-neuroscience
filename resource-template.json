@@ -1,0 +1,13 @@
+{
+    "resource-name": "sentence",
+    "resource-id": "integer",
+    "Description": "paragraph",
+    "publication-date": "date",
+    "pubmed-ID": "integer",
+    "retrieval":
+        {"DOI": "string",
+         "URL": "url"},
+
+    "supplements": "url",
+    "annotations": "labels"
+}
